@@ -1,0 +1,73 @@
+[
+    {
+      "ids": "a1",
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "Classic Leica M3: renowned 35mm rangefinder camera with exceptional build, image quality.",
+      "currentBidPrice": 850,
+      "timeLeft": "2h 30m",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/fdYg0m3L/image.png"
+    },
+    {
+      "ids": "aa2",
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "1965 Gibson SG Standard: iconic electric guitar known for its powerful sound and vintage appeal.",
+      "currentBidPrice": 120.5,
+      "timeLeft": "1d 5h",
+      "bidsCount": 23,
+      "image": "https://i.ibb.co.com/Y74q12JQ/image-1.png"
+    },
+    {
+      "ids": "aaa3",
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "Original Apple Macintosh 128K (1984): revolutionary personal computer with a 9-inch monochrome display and 128KB RAM.",
+      "currentBidPrice": 80.99,
+      "timeLeft": "5h 15m",
+      "bidsCount": 34,
+      "image": "https://i.ibb.co.com/MDDSRtL9/image-2.png"
+    },
+    {
+      "ids": "a44",
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Rolex Submariner 16610: iconic dive watch with 300m water resistance and classic design.",
+      "currentBidPrice": 55.75,
+      "timeLeft": "3d 2h",
+      "bidsCount": 19,
+      "image": "https://i.ibb.co.com/JwSxVZ89/image-3.png"
+    },
+    {
+      "ids": "a55",
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "First Edition 'The Great Gatsby': rare 1925 novel by F. Scott Fitzgerald, a literary classic of the Jazz Age.",
+      "currentBidPrice": 150.0,
+      "timeLeft": "12h 45m",
+      "bidsCount": 41,
+      "image": "https://i.ibb.co.com/mFVDmGQT/image-4.png"
+    },
+    {
+      "ids": "a66",
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Mid-Century Modern Eames Lounge Chair: iconic 1956 design by Charles and Ray Eames, known for comfort and style.",
+      "currentBidPrice": 310.0,
+      "timeLeft": "4d 20h",
+      "bidsCount": 58,
+      "image": "https://i.ibb.co.com/mrYBW6sj/image-5.png"
+    },
+    {
+      "ids": "a77",
+      "id": 7,
+      "title": "Banksy Original Screen Print",
+      "description": "Banksy original screen print: limited edition stencil-based artwork, authenticated by Pest Control, known for political satire and high collectible value.",
+      "currentBidPrice": 480.0,
+      "timeLeft": "2d 4h",
+      "bidsCount": 29,
+      "image": "https://i.ibb.co.com/Fk6BcWWQ/image-6.png"
+    }
+  ]
+  
